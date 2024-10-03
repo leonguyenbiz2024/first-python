@@ -1,3 +1,5 @@
 a = 1
 b = 2
-print(a+b)
+c = b
+a = b
+print(a)
